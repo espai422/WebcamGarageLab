@@ -2,8 +2,6 @@
 
 To install python on windows 10 and 11 you can do it from the microsoft store
 
-### IMAGEN
-
 once python installed you should clone this repository by downloading it as zip and uncompressing it or using the following command if Git is installed.
 ```ps
 git clone https://github.com/espai422/WebcamGarageLab
