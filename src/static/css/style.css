@@ -1,0 +1,79 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+    background-color: #FEFEFE;
+}
+
+html, body {
+    height: 95%;
+    width: 99%;
+}
+
+#header {
+    height: 10%;
+    width: 100%;
+    margin-bottom: 1%;
+}
+
+#Garage_header{
+    padding-top: 1%;
+    padding-left: 1%;
+    padding-right: 1%;
+    width: 22%;
+    height: 80%;
+    background-color:#ff6600;
+    border-radius: 15px;
+    margin: 0 auto;
+    display: block;
+    min-width: 350px;
+    box-shadow:0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+#title{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    margin: 0 auto;
+    font-size: 30px;
+    color: white;
+    text-align: center;
+    margin-top: 50% relative;
+    width: auto;
+    height: auto;
+}
+
+#contenedor{
+    margin-top: 1%;
+    height:79%;
+    width: 100%;
+}
+
+#webcam {
+    width: auto;
+    height: 100%;
+    margin-left: 11%;
+    margin-right: 11%;
+    border-radius: 10px;
+    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2), 0 12px 40px 0 rgba(0, 0, 0, 0.19);
+}
+
+#contenedor2 {
+    height: 93% !important;
+    text-align: center;
+}
+
+#status {
+    background-color: lightsalmon;
+    width: min-content;
+    min-width: 75px;
+    text-align: center;
+    padding: 1%;
+    border-radius: 5px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    font-size: 25px;
+
+    position: absolute;
+    top: 10px;
+    left: 10px;
+}
